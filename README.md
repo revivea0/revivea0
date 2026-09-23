@@ -1,13 +1,11 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/revivea0/revivea0/main/assets/revive-wordmark.svg" width="100%" alt="revive — web experiences, blue hour edition" />
+  <img src="https://raw.githubusercontent.com/revivea0/revivea0/main/assets/revive-wordmark.svg" width="88%" alt="revivea — frontend, full stack, web systems" />
   <br/>
   <a href="https://t.me/revivea"><img src="https://img.shields.io/badge/telegram-4F8CFF?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="mailto:sdanilov361@gmail.com"><img src="https://img.shields.io/badge/email-7768FF?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
-<br/>
-
-### project series
+### избранные проекты
 
 <table>
   <tr>
@@ -18,7 +16,7 @@
       <br/><br/>
       Сайт сети студий с маршрутом до записи без лишних шагов.
       <br/><br/>
-      <b>Inside</b>
+      <b>Функции</b>
       <ul>
         <li>онлайн-запись через YClients;</li>
         <li>Schema.org: Organization, BeautySalon и рейтинг;</li>
@@ -33,7 +31,7 @@
       <br/><br/>
       Сайт клиники, где большой каталог не превращается в лабиринт.
       <br/><br/>
-      <b>Inside</b>
+      <b>Функции</b>
       <ul>
         <li>поиск и фильтрация услуг;</li>
         <li>профили специалистов и сертификаты;</li>
@@ -50,7 +48,7 @@
       <br/><br/>
       Сервис маркетингового агентства с живым визуалом и понятной воронкой.
       <br/><br/>
-      <b>Inside</b>
+      <b>Функции</b>
       <ul>
         <li>Canvas-нейросозвездие с реакцией на курсор;</li>
         <li>сквозной сбор UTM-меток и антиспам;</li>
@@ -65,7 +63,7 @@
       <br/><br/>
       Платформа, которая делает бухгалтерский аутсорсинг понятнее для клиента.
       <br/><br/>
-      <b>Inside</b>
+      <b>Функции</b>
       <ul>
         <li>калькулятор стоимости для ООО и ИП;</li>
         <li>экспресс-сканер налоговых рисков;</li>
@@ -78,7 +76,7 @@
 
 <br/>
 
-### what i build
+### что делаю
 
 <table>
   <tr>

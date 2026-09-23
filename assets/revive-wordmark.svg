@@ -1,21 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
-  <title id="title">revive</title>
-  <desc id="desc">Blue anime-inspired wordmark for a web developer profile.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" role="img" aria-labelledby="title desc">
+  <title id="title">revivea</title>
+  <desc id="desc">A compact blue anime-inspired wordmark for revivea.</desc>
   <defs>
-    <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="0">
-      <stop stop-color="#5EE7FF" stop-opacity="0"/>
-      <stop offset=".2" stop-color="#5EE7FF"/>
-      <stop offset=".8" stop-color="#8A7DFF"/>
-      <stop offset="1" stop-color="#8A7DFF" stop-opacity="0"/>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#55E4FF" stop-opacity="0"/>
+      <stop offset=".18" stop-color="#55E4FF"/>
+      <stop offset=".82" stop-color="#9078FF"/>
+      <stop offset="1" stop-color="#9078FF" stop-opacity="0"/>
     </linearGradient>
-    <filter id="glow" x="-50%" y="-100%" width="200%" height="300%">
-      <feGaussianBlur stdDeviation="4" result="b"/>
+    <filter id="glow" x="-30%" y="-100%" width="160%" height="300%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
   </defs>
-  <path d="M110 84C250 28 395 124 600 80S915 27 1090 71" fill="none" stroke="url(#stroke)" stroke-width="1.5" filter="url(#glow)"/>
-  <circle cx="142" cy="70" r="5" fill="#92EFFF" filter="url(#glow)"/>
-  <circle cx="1055" cy="74" r="4" fill="#A295FF" filter="url(#glow)"/>
-  <text x="600" y="77" text-anchor="middle" fill="#F4F8FF" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" letter-spacing="-2">revive</text>
-  <text x="600" y="110" text-anchor="middle" fill="#93CFFF" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="4">WEB EXPERIENCES / BLUE HOUR EDITION</text>
+  <path d="M116 60C285 29 390 86 600 56s403-22 484-3" fill="none" stroke="url(#line)" stroke-width="1.4" filter="url(#glow)"/>
+  <circle cx="170" cy="51" r="4" fill="#83F3FF" filter="url(#glow)"/>
+  <circle cx="1031" cy="55" r="4" fill="#A28AFF" filter="url(#glow)"/>
+  <path d="M401 29a13 13 0 1 0 0 26 15 15 0 1 1 0-26Z" fill="#8BDFFF" opacity=".9"/>
+  <text x="600" y="61" text-anchor="middle" fill="#F5F8FF" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="-2">revivea</text>
+  <text x="600" y="91" text-anchor="middle" fill="#9ACDFF" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" letter-spacing="3.2">FRONTEND · FULL STACK · WEB SYSTEMS</text>
 </svg>
