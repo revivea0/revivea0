@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/revivea0/revivea0/main/assets/skyline-banner.png" width="100%" alt="A dreamy blue night sky above clouds" />
+  <img src="https://raw.githubusercontent.com/revivea0/revivea0/main/assets/portal-banner.png" width="100%" alt="A luminous portal floating above the clouds" />
 </div>
 
 <br/>
 
-<h1 align="center">revivea</h1>
+<h1 align="center">revive</h1>
 
 <p align="center">
-  <b>full-stack web developer</b><br/>
-  ideas → interfaces → production
+  <b>digital experiences, built with intent</b><br/>
+  from a spark of an idea to something alive on the web
 </p>
 
 <p align="center">
@@ -19,11 +19,11 @@
 
 <br/>
 
-## Привет, я Серёжа 👋
+## a little signal from the cloud layer ☁︎
 
-Делаю сайты и сервисы, в которые приятно заходить — быстрые, живые и собранные вокруг реальных задач бизнеса. Люблю тот момент, когда из хаоса идей получается простая, красивая штука, которая правда работает.
+Делаю сайты и сервисы, в которые хочется вернуться. Беру хаос идей, нахожу в нём главное и превращаю в быстрый, живой и понятный цифровой опыт.
 
-Сейчас мой основной мир — **Next.js, React, Astro, TypeScript** и всё, что делает веб быстрее и понятнее: аккуратная архитектура, SEO, микроразметка, интеграции и хорошая мелкая анимация.
+Мой космос — **Next.js, React, Astro и TypeScript**. Внутри: аккуратная архитектура, SEO, микроразметка, интеграции и та самая анимация, из-за которой интерфейс перестаёт быть просто набором кнопок.
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -33,27 +33,27 @@
 
 <br/>
 
-## Избранное
+## things i've brought to life ✦
 
-### [Laser Planet](https://thelaserplanet.ru) <sub>— премиальный сервис лазерной эпиляции</sub>
+### 01 · [Laser Planet](https://thelaserplanet.ru)
 
 `Next.js 16` · `React 19` · `TypeScript` · `Tailwind CSS` · `Drizzle ORM`
 
-Сайт сети студий в XFIT, Москва: онлайн-запись через YClients, Schema.org, рейтинг 5.0 и готовность к AI/LLM-индексации.
+Премиальный сервис лазерной эпиляции в XFIT, Москва. Запись через YClients, Schema.org, рейтинг 5.0 и готовность к AI/LLM-индексации.
 
-### [Briliant Clinic](https://ast-medicine.ru) <sub>— эстетическая медицина</sub>
+### 02 · [Briliant Clinic](https://ast-medicine.ru)
 
 `JavaScript` · `Node.js` · `PHP API` · `SQLite`
 
 Каталог услуг с поиском и фильтрацией, досье специалистов и внутренняя панель для управления ценами и заявками.
 
-### Бизнес Маркетинг <sub>— сервис для роста и продаж</sub>
+### 03 · Бизнес Маркетинг
 
 `Astro 5` · `Zero-JS SSG` · `Telegram Bot API` · `Docker`
 
 Нейро-созвездие на Canvas, UTM-атрибуция, антиспам и мгновенная отправка заявок в Telegram.
 
-### 1С-Баланс <sub>— скоро</sub>
+### 04 · 1С-Баланс <sub>— loading</sub>
 
 `React 18` · `Vite 5` · `Tailwind CSS` · `Framer Motion`
 
@@ -62,5 +62,5 @@
 <br/>
 
 <div align="center">
-  <sub>building quietly, shipping thoughtfully ☁︎</sub>
+  <sub>revive · make the web feel a little less ordinary</sub>
 </div>
