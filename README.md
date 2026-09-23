@@ -1,66 +1,61 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/revivea0/revivea0/main/assets/portal-banner.png" width="100%" alt="A luminous portal floating above the clouds" />
+  <img src="https://raw.githubusercontent.com/revivea0/revivea0/main/assets/anime-blue-banner.png" width="100%" alt="Anime developer overlooking a blue night city" />
+</div>
+
+<div align="center">
+  <h3>revive</h3>
+  <sub>late-night ideas · clean code · websites with a pulse</sub>
+  <br/><br/>
+  <a href="https://t.me/revivea"><img src="https://img.shields.io/badge/telegram-5B8CFF?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="mailto:sdanilov361@gmail.com"><img src="https://img.shields.io/badge/email-7B61FF?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 <br/>
 
-<h1 align="center">revive</h1>
-
-<p align="center">
-  <b>digital experiences, built with intent</b><br/>
-  from a spark of an idea to something alive on the web
-</p>
-
-<p align="center">
-  <a href="https://t.me/revivea"><img src="https://img.shields.io/badge/Telegram-4C6FFF?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="mailto:sdanilov361@gmail.com"><img src="https://img.shields.io/badge/Email-7C6CFF?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/revivea0"><img src="https://img.shields.io/badge/GitHub-252A41?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
-<br/>
-
-## a little signal from the cloud layer ☁︎
-
-Делаю сайты и сервисы, в которые хочется вернуться. Беру хаос идей, нахожу в нём главное и превращаю в быстрый, живой и понятный цифровой опыт.
-
-Мой космос — **Next.js, React, Astro и TypeScript**. Внутри: аккуратная архитектура, SEO, микроразметка, интеграции и та самая анимация, из-за которой интерфейс перестаёт быть просто набором кнопок.
-
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,astro,ts,js,tailwind,vite,nodejs,docker,git,vercel,php&theme=dark" alt="React, Next.js, Astro, TypeScript, JavaScript, Tailwind, Vite, Node.js, Docker, Git, Vercel and PHP" />
-  </a>
+  <i>«turning scattered ideas into places people want to stay»</i>
 </div>
 
 <br/>
 
-## things i've brought to life ✦
+<h3>about</h3>
 
-### 01 · [Laser Planet](https://thelaserplanet.ru)
+Я делаю веб, который ощущается живым: быстрые интерфейсы, аккуратный визуал и техническая часть, о которой пользователь вообще не должен думать. От первого наброска до запуска — беру на себя весь путь.
 
-`Next.js 16` · `React 19` · `TypeScript` · `Tailwind CSS` · `Drizzle ORM`
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,ts,js,tailwind,vite,nodejs,docker,git,vercel,php&theme=dark" alt="Tech stack: React, Next.js, Astro, TypeScript, JavaScript, Tailwind, Vite, Node.js, Docker, Git, Vercel and PHP" />
+</div>
 
-Премиальный сервис лазерной эпиляции в XFIT, Москва. Запись через YClients, Schema.org, рейтинг 5.0 и готовность к AI/LLM-индексации.
+<br/>
 
-### 02 · [Briliant Clinic](https://ast-medicine.ru)
+<h3>selected work</h3>
 
-`JavaScript` · `Node.js` · `PHP API` · `SQLite`
+**01 / [Laser Planet](https://thelaserplanet.ru)**
 
-Каталог услуг с поиском и фильтрацией, досье специалистов и внутренняя панель для управления ценами и заявками.
+<sub>Next.js 16 · React 19 · TypeScript · Tailwind CSS · Drizzle ORM</sub>
 
-### 03 · Бизнес Маркетинг
+Премиальный сервис лазерной эпиляции: запись через YClients, SEO-архитектура и Schema.org.
 
-`Astro 5` · `Zero-JS SSG` · `Telegram Bot API` · `Docker`
+**02 / [Briliant Clinic](https://ast-medicine.ru)**
 
-Нейро-созвездие на Canvas, UTM-атрибуция, антиспам и мгновенная отправка заявок в Telegram.
+<sub>JavaScript · Node.js · PHP API · SQLite</sub>
 
-### 04 · 1С-Баланс <sub>— loading</sub>
+Эстетическая медицина с живым каталогом услуг, поиском и внутренней панелью.
 
-`React 18` · `Vite 5` · `Tailwind CSS` · `Framer Motion`
+**03 / Бизнес Маркетинг**
 
-Платформа бухгалтерского аутсорсинга: калькулятор, налоговый экспресс-сканер и трекер отчётных сроков.
+<sub>Astro 5 · Zero-JS SSG · Telegram Bot API · Docker</sub>
+
+Маркетинговый сервис с интерактивным Canvas-созвездием и лидами в Telegram.
+
+**04 / 1С-Баланс — in progress**
+
+<sub>React 18 · Vite 5 · Tailwind CSS · Framer Motion</sub>
+
+Платформа бухгалтерского аутсорсинга: калькулятор, экспресс-сканер и трекер сроков.
 
 <br/>
 
 <div align="center">
-  <sub>revive · make the web feel a little less ordinary</sub>
+  <sub>✦ built in the blue hour ✦</sub>
 </div>
