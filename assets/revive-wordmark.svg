@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
+  <title id="title">revive</title>
+  <desc id="desc">Blue anime-inspired wordmark for a web developer profile.</desc>
+  <defs>
+    <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#5EE7FF" stop-opacity="0"/>
+      <stop offset=".2" stop-color="#5EE7FF"/>
+      <stop offset=".8" stop-color="#8A7DFF"/>
+      <stop offset="1" stop-color="#8A7DFF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-100%" width="200%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <path d="M110 84C250 28 395 124 600 80S915 27 1090 71" fill="none" stroke="url(#stroke)" stroke-width="1.5" filter="url(#glow)"/>
+  <circle cx="142" cy="70" r="5" fill="#92EFFF" filter="url(#glow)"/>
+  <circle cx="1055" cy="74" r="4" fill="#A295FF" filter="url(#glow)"/>
+  <text x="600" y="77" text-anchor="middle" fill="#F4F8FF" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" letter-spacing="-2">revive</text>
+  <text x="600" y="110" text-anchor="middle" fill="#93CFFF" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="4">WEB EXPERIENCES / BLUE HOUR EDITION</text>
+</svg>
