@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/revivea0/revivea0/main/assets/revive-wordmark.svg" width="88%" alt="revivea — frontend, full stack, web systems" />
+  <img src="https://raw.githubusercontent.com/revivea0/revivea0/main/assets/revive-wordmark.svg?v=68b9827" width="88%" alt="revivea — frontend, full stack, web systems" />
   <br/>
   <a href="https://t.me/revivea"><img src="https://img.shields.io/badge/telegram-4F8CFF?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="mailto:sdanilov361@gmail.com"><img src="https://img.shields.io/badge/email-7768FF?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
