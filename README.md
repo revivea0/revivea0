@@ -1,109 +1,137 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0077B6,0096C7,00B4D8,48CAE4,90E0EF&height=200&section=header&text=revivea&fontSize=62&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20%E2%80%A2%20Creative%20Web%20Engineer&descFontSize=18&descColor=e0f2fe&descAlignY=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090B,35:18181B,70:27272A,100:09090B&height=210&section=header&text=revivea&fontSize=76&fontColor=F4F4F5&fontAlignY=42&animation=fadeIn&desc=BUILDING%20THE%20WEB%20AFTER%20MIDNIGHT.&descSize=17&descAlignY=64&descColor=A1A1AA&stroke=F97316&strokeWidth=1" width="100%" alt="revivea — building the web after midnight" />
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full+Stack+%26+Frontend+Developer;Next.js+16+%E2%80%A2+React+19+%E2%80%A2+TypeScript;Astro+5+%E2%80%A2+Tailwind+CSS+v4;Clean+Architecture+%E2%80%A2+High+Speed+%E2%80%A2+SEO" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=800&color=F97316&center=true&vCenter=true&width=720&lines=%3E+next+build+%E2%80%94+but+make+it+unreasonably+fast;%3E+shipping+interfaces+with+a+pulse;%3E+SEO%2C+systems%2C+and+a+little+controlled+chaos" alt="Terminal messages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://t.me/revivea" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  &nbsp;
-  <a href="mailto:sdanilov361@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0052cc?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/revivea0" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0369a1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="https://t.me/revivea"><img src="https://img.shields.io/badge/TELEGRAM-DM_ME-18181B?style=for-the-badge&logo=telegram&logoColor=F97316&labelColor=09090B" alt="Telegram" /></a>
+  <a href="mailto:sdanilov361@gmail.com"><img src="https://img.shields.io/badge/EMAIL-LET'S_TALK-18181B?style=for-the-badge&logo=gmail&logoColor=F97316&labelColor=09090B" alt="Email" /></a>
+  <a href="https://github.com/revivea0"><img src="https://img.shields.io/badge/GITHUB-FOLLOW_THE_BUILD-18181B?style=for-the-badge&logo=github&logoColor=F97316&labelColor=09090B" alt="GitHub" /></a>
 </div>
 
 <br/>
 
----
+```txt
+╭──────────────────────────────────────────────────────────────────────╮
+│  SYSTEM: REVIVEA / WEB ENGINEERING                                   │
+│  MISSION: turn attention into fast, useful digital experiences       │
+│  STATUS: shipping                                                    │
+╰──────────────────────────────────────────────────────────────────────╯
+```
 
-### ✦ Обо мне
+## `whoami`
 
-Привет! Я **revivea** — веб-разработчик. Специализируюсь на создании быстрых, адаптивных и конверсионных веб-сайтов и приложений под ключ с упором на чистую архитектуру, максимальную скорость Core Web Vitals и глубокое SEO.
+Я **revivea** — full-stack веб-разработчик, который делает сайты и сервисы с нервом: быстрые, адаптивные, удобные для людей и понятные поисковикам. Беру идею, раскладываю её на систему и довожу до продакшена.
 
-- ⚡ **Основной стек**: Next.js 16, React 19, Astro 5, TypeScript, Tailwind CSS v4.
-- 🎯 **Опыт**: разработка посадочных страниц и сервисов, интеграция YClients, Telegram-ботов, интерактивных калькуляторов и CRM-систем.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✦ Я делаю</h3>
+      <ul>
+        <li>сайты, которые грузятся до того, как пользователь успеет передумать;</li>
+        <li>интерфейсы с характером, а не «ещё один шаблон»;</li>
+        <li>SEO и микроразметку, которые работают под капотом.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✦ В арсенале</h3>
+      <ul>
+        <li>Next.js · React · Astro · TypeScript;</li>
+        <li>Tailwind · Node.js · Docker · Vercel;</li>
+        <li>YClients · Telegram Bot API · CRM-интеграции.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
----
+## `stack --active`
 
-### ✦ Стек технологий
-
-<p align="center">
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,astro,ts,js,tailwind,vite,nodejs,docker,git,vercel,php&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,astro,ts,js,tailwind,vite,nodejs,docker,git,vercel,php&theme=dark&perline=12" alt="React, Next.js, Astro, TypeScript, JavaScript, Tailwind, Vite, Node.js, Docker, Git, Vercel and PHP" />
   </a>
-</p>
-
----
-
-### ✦ Избранные проекты
-
-### 🪐 [Laser Planet](https://thelaserplanet.ru)
-> **Сайт:** [thelaserplanet.ru](https://thelaserplanet.ru) &nbsp;•&nbsp; **Стек:** `Next.js 16` • `React 19` • `TypeScript` • `Tailwind CSS v4` • `Drizzle ORM`
-
-Официальный веб-сайт сети премиальных студий лазерной эпиляции в фитнес-клубах XFIT (Москва).  
-- Онлайн-запись клиентов через YClients.
-- Валидная микроразметка Schema.org (`Organization`, `BeautySalon`, `AggregateRating 5.0`).
-- Полная адаптация под AI/LLM-индексацию (`llms.txt`, `llms-full.txt`).
+</div>
 
 <br/>
 
-### 💎 [Briliant Clinic](https://ast-medicine.ru)
-> **Сайт:** [ast-medicine.ru](https://ast-medicine.ru) &nbsp;•&nbsp; **Стек:** `JavaScript ES6+` • `Node.js` • `PHP API` • `SQLite`
+```ts
+const delivery = {
+  architecture: "clean",
+  performance: "aggressively optimized",
+  seo: "built-in, not bolted-on",
+  vibe: "specific > generic",
+};
+```
 
-Официальный сайт клиники эстетической медицины, косметологии и мануальной терапии в Москве.  
-- Интерактивный каталог услуг с живым поиском и фильтрацией.
-- Персональные досье специалистов и сертификаты.
-- Встроенная административная панель для управления ценами и заявками.
+## `selected_transmissions`
 
-<br/>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://thelaserplanet.ru"><img src="https://img.shields.io/badge/01-LASER_PLANET-F97316?style=for-the-badge&labelColor=09090B" alt="Laser Planet" /></a>
+      <br/><br/>
+      Цифровой дом сети премиальных студий лазерной эпиляции в XFIT, Москва.
+      <br/><br/>
+      <code>Next.js 16</code> <code>React 19</code> <code>TypeScript</code> <code>Drizzle</code>
+      <br/><br/>
+      <sub>YClients-запись · Schema.org · рейтинг 5.0 · AI/LLM-ready SEO</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://ast-medicine.ru"><img src="https://img.shields.io/badge/02-BRILIANT_CLINIC-F97316?style=for-the-badge&labelColor=09090B" alt="Briliant Clinic" /></a>
+      <br/><br/>
+      Сайт эстетической медицины, где каталог услуг и админка не воюют друг с другом.
+      <br/><br/>
+      <code>JavaScript</code> <code>Node.js</code> <code>PHP API</code> <code>SQLite</code>
+      <br/><br/>
+      <sub>живой поиск · фильтрация · специалисты · управление ценами и лидами</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/03-BUSINESS_MARKETING-F97316?style=for-the-badge&labelColor=09090B" alt="Business Marketing" />
+      <br/><br/>
+      Маркетинговый сервис с интерактивным нейро-созвездием, которое реагирует на курсор.
+      <br/><br/>
+      <code>Astro 5</code> <code>Zero-JS SSG</code> <code>Telegram API</code> <code>Docker</code>
+      <br/><br/>
+      <sub>Canvas-анимация · UTM-атрибуция · антиспам · лиды в Telegram</sub>
+    </td>
+    <td width="50%" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/04-1C_BALANCE_/_IN_PROGRESS-F97316?style=for-the-badge&labelColor=09090B" alt="1C Balance — in progress" />
+      <br/><br/>
+      Платформа для бухгалтерского аутсорсинга и сопровождения 1С.
+      <br/><br/>
+      <code>React 18</code> <code>Vite 5</code> <code>Tailwind</code> <code>Framer Motion</code>
+      <br/><br/>
+      <sub>калькулятор · налоговый экспресс-сканер · трекер отчётных сроков</sub>
+    </td>
+  </tr>
+</table>
 
-### 🚀 Бизнес Маркетинг
-> **Стек:** `Astro 5` • `Zero-JS SSG` • `Telegram Bot API` • `Docker`
-
-Веб-сервис агентства комплексного маркетинга и масштабирования продаж.  
-- Интерактивная нейро-созвездие анимация на Canvas с реакцией на курсор.
-- Сквозной сбор UTM-меток и защита от спама.
-- Автоматическая отправка лидов через Telegram Bot API.
-
-<br/>
-
-### 📊 1С-Баланс
-> **Статус:** *(в процессе разработки)* &nbsp;•&nbsp; **Стек:** `React 18` • `Vite 5` • `Tailwind CSS` • `Framer Motion`
-
-Интерактивная платформа бухгалтерского аутсорсинга и сопровождения систем 1С:Предприятие.  
-- Онлайн-калькулятор стоимости бухучета для ООО и ИП.
-- Экспресс-сканер налоговых рисков и трекер сроков сдачи отчетности.
-
----
-
-### ✦ Статистика GitHub
+## `telemetry`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=revivea0&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revivea0&layout=compact&theme=react&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=revivea0&show_icons=true&hide_border=true&bg_color=00000000&title_color=F97316&icon_color=F97316&text_color=A1A1AA&ring_color=F97316" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revivea0&layout=compact&hide_border=true&bg_color=00000000&title_color=F97316&text_color=A1A1AA" height="165" alt="Top languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=revivea0&theme=react&hide_border=true" alt="GitHub Streak" width="65%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=revivea0&hide_border=true&background=00000000&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=A1A1AA&dates=71717A&sideNums=F4F4F5&currStreakNum=F4F4F5" alt="GitHub contribution streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0077B6,0096C7,00B4D8,48CAE4,90E0EF&height=90&section=footer" width="100%" />
+  <sub>made with <b>taste</b>, TypeScript, and an unreasonable respect for the loading bar.</sub>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090B,50:F97316,100:09090B&height=8&section=footer" width="100%" alt="" />
 </div>
