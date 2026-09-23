@@ -7,66 +7,95 @@
 
 <br/>
 
-### selected work
+### project series
 
-#### 01 / [Laser Planet](https://thelaserplanet.ru)
-
-<sub>PREMIUM LASER EPILATION · XFIT, MOSCOW</sub>
-
-Сайт сети студий лазерной эпиляции: спокойный премиальный визуал, понятный путь до записи и крепкая техническая база под поисковый трафик.
-
-**внутри:** онлайн-запись через YClients · валидная Schema.org-разметка для `Organization`, `BeautySalon` и рейтинга · `llms.txt` и `llms-full.txt` для AI/LLM-индексации.
-
-<code>Next.js 16</code> · <code>React 19</code> · <code>TypeScript</code> · <code>Tailwind CSS</code> · <code>Drizzle ORM</code>
-
-↗ [thelaserplanet.ru](https://thelaserplanet.ru)
-
-<br/>
-
-#### 02 / [Briliant Clinic](https://ast-medicine.ru)
-
-<sub>AESTHETIC MEDICINE · MOSCOW</sub>
-
-Сайт клиники эстетической медицины, косметологии и мануальной терапии, где огромный объём услуг не превращается в лабиринт.
-
-**внутри:** живой поиск и фильтрация каталога · страницы специалистов с сертификатами · административная панель для цен и заявок.
-
-<code>JavaScript ES6+</code> · <code>Node.js</code> · <code>PHP API</code> · <code>SQLite</code>
-
-↗ [ast-medicine.ru](https://ast-medicine.ru)
-
-<br/>
-
-#### 03 / Бизнес Маркетинг
-
-<sub>GROWTH & SALES PLATFORM</sub>
-
-Веб-сервис маркетингового агентства — с визуалом, который не стоит на месте, и воронкой, которая не теряет заявки.
-
-**внутри:** интерактивное нейро-созвездие на Canvas · сквозной сбор UTM-меток · антиспам · автоматическая отправка лидов в Telegram.
-
-<code>Astro 5</code> · <code>Zero-JS SSG</code> · <code>Telegram Bot API</code> · <code>Docker</code>
-
-<br/>
-
-#### 04 / 1С-Баланс <sub>— in progress</sub>
-
-<sub>ACCOUNTING OUTSOURCING PLATFORM</sub>
-
-Платформа для бухгалтерского аутсорсинга и сопровождения 1С — превращаю скучную отчётность в интерфейс, в котором не страшно разбираться.
-
-**внутри:** онлайн-калькулятор для ООО и ИП · экспресс-сканер налоговых рисков · трекер сроков сдачи отчётности.
-
-<code>React 18</code> · <code>Vite 5</code> · <code>Tailwind CSS</code> · <code>Framer Motion</code>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>01 / LIVE PRODUCT</sub>
+      <h3><a href="https://thelaserplanet.ru">Laser Planet ↗</a></h3>
+      <sub>PREMIUM LASER EPILATION · XFIT, MOSCOW</sub>
+      <br/><br/>
+      Сайт сети студий с маршрутом до записи без лишних шагов.
+      <br/><br/>
+      <b>Inside</b>
+      <ul>
+        <li>онлайн-запись через YClients;</li>
+        <li>Schema.org: Organization, BeautySalon и рейтинг;</li>
+        <li>AI/LLM-ready SEO: llms.txt и llms-full.txt.</li>
+      </ul>
+      <code>Next.js 16</code> <code>React 19</code> <code>TypeScript</code> <code>Drizzle</code>
+    </td>
+    <td width="50%" valign="top">
+      <sub>02 / LIVE PRODUCT</sub>
+      <h3><a href="https://ast-medicine.ru">Briliant Clinic ↗</a></h3>
+      <sub>AESTHETIC MEDICINE · MOSCOW</sub>
+      <br/><br/>
+      Сайт клиники, где большой каталог не превращается в лабиринт.
+      <br/><br/>
+      <b>Inside</b>
+      <ul>
+        <li>поиск и фильтрация услуг;</li>
+        <li>профили специалистов и сертификаты;</li>
+        <li>панель управления ценами и заявками.</li>
+      </ul>
+      <code>JavaScript</code> <code>Node.js</code> <code>PHP API</code> <code>SQLite</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>03 / DIGITAL SYSTEM</sub>
+      <h3>Бизнес Маркетинг</h3>
+      <sub>GROWTH & SALES PLATFORM</sub>
+      <br/><br/>
+      Сервис маркетингового агентства с живым визуалом и понятной воронкой.
+      <br/><br/>
+      <b>Inside</b>
+      <ul>
+        <li>Canvas-нейросозвездие с реакцией на курсор;</li>
+        <li>сквозной сбор UTM-меток и антиспам;</li>
+        <li>автоматическая отправка лидов в Telegram.</li>
+      </ul>
+      <code>Astro 5</code> <code>Zero-JS SSG</code> <code>Telegram API</code> <code>Docker</code>
+    </td>
+    <td width="50%" valign="top">
+      <sub>04 / WORK IN PROGRESS</sub>
+      <h3>1С-Баланс</h3>
+      <sub>ACCOUNTING OUTSOURCING PLATFORM</sub>
+      <br/><br/>
+      Платформа, которая делает бухгалтерский аутсорсинг понятнее для клиента.
+      <br/><br/>
+      <b>Inside</b>
+      <ul>
+        <li>калькулятор стоимости для ООО и ИП;</li>
+        <li>экспресс-сканер налоговых рисков;</li>
+        <li>трекер сроков сдачи отчётности.</li>
+      </ul>
+      <code>React 18</code> <code>Vite 5</code> <code>Tailwind CSS</code> <code>Framer Motion</code>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 ### what i build
 
-- сайты и лендинги с собственным визуалом, а не «ещё один шаблон»;
-- сервисы на Next.js, React и Astro — от интерфейса до API;
-- интеграции с YClients, Telegram-ботами и CRM;
-- техническую основу: скорость, Core Web Vitals, SEO и Schema.org.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>interfaces</b><br/>
+      <sub>сайты и лендинги с собственным визуалом — не очередной шаблон</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>systems</b><br/>
+      <sub>Next.js, React и Astro-проекты — от интерфейса до API</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>infrastructure</b><br/>
+      <sub>скорость, SEO, Schema.org, YClients, Telegram и CRM</sub>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
