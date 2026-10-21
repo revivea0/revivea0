@@ -82,19 +82,30 @@
 
 ### Открытые проекты
 
-#### [Scraper 2GIS](https://github.com/revivea0/Scraper2GIS-AutoBrowser)
-
-Настольный парсер контактов организаций из 2GIS с выгрузкой в Excel.
-
-[![Интерфейс Scraper 2GIS](https://raw.githubusercontent.com/revivea0/Scraper2GIS-AutoBrowser/main/docs/images/screenshot.png)](https://github.com/revivea0/Scraper2GIS-AutoBrowser)
-
-- Поиск по городу, рубрике, району или улице; телефоны, сайты и соцсети в одной таблице.
-- Автоматическое скачивание Chromium, бэкапы и продолжение прерванного сбора.
-- Готовые приложения для Windows, macOS Apple Silicon / Intel и Linux.
-
-<code>Python</code> <code>Playwright</code> <code>pywebview</code> <code>openpyxl</code>
-
-[Скачать приложение](https://github.com/revivea0/Scraper2GIS-AutoBrowser/releases/latest) · [Исходники и условия работы](https://github.com/revivea0/Scraper2GIS-AutoBrowser#условия-работы-парсера)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/revivea0/Scraper2GIS-AutoBrowser">Scraper 2GIS</a></h3>
+      Настольное приложение для сбора контактов организаций в Excel.
+      <ul>
+        <li>поиск по городу, рубрике, району и улице;</li>
+        <li>автозагрузка Chromium, бэкапы и продолжение сбора;</li>
+        <li>готовые сборки для Windows, macOS и Linux.</li>
+      </ul>
+      <code>Python</code> <code>Playwright</code> <code>pywebview</code> <code>openpyxl</code>
+      <p>
+        <a href="https://github.com/revivea0/Scraper2GIS-AutoBrowser/releases/latest">Скачать</a> ·
+        <a href="https://github.com/revivea0/Scraper2GIS-AutoBrowser">Исходники</a> ·
+        <a href="https://github.com/revivea0/Scraper2GIS-AutoBrowser#условия-работы-парсера">Условия работы</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/revivea0/Scraper2GIS-AutoBrowser">
+        <img src="https://raw.githubusercontent.com/revivea0/Scraper2GIS-AutoBrowser/main/docs/images/screenshot.png" width="100%" alt="Scraper 2GIS — параметры поиска, статистика и журнал сбора" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### С чем работаю
 
