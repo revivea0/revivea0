@@ -80,6 +80,22 @@
 
 Исходники клиентских проектов хранятся в приватных репозиториях.
 
+### Открытые проекты
+
+#### [Scraper 2GIS](https://github.com/revivea0/Scraper2GIS-AutoBrowser)
+
+Настольный парсер контактов организаций из 2GIS с выгрузкой в Excel.
+
+[![Интерфейс Scraper 2GIS](https://raw.githubusercontent.com/revivea0/Scraper2GIS-AutoBrowser/main/docs/images/screenshot.png)](https://github.com/revivea0/Scraper2GIS-AutoBrowser)
+
+- Поиск по городу, рубрике, району или улице; телефоны, сайты и соцсети в одной таблице.
+- Автоматическое скачивание Chromium, бэкапы и продолжение прерванного сбора.
+- Готовые приложения для Windows, macOS Apple Silicon / Intel и Linux.
+
+<code>Python</code> <code>Playwright</code> <code>pywebview</code> <code>openpyxl</code>
+
+[Скачать приложение](https://github.com/revivea0/Scraper2GIS-AutoBrowser/releases/latest) · [Исходники и условия работы](https://github.com/revivea0/Scraper2GIS-AutoBrowser#условия-работы-парсера)
+
 ### С чем работаю
 
 **Интерфейсы:** React, Next.js, Astro, TypeScript и адаптивная вёрстка.<br/>
